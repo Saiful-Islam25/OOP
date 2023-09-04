@@ -20,7 +20,7 @@ int main(){
     //cin>>s;
     cout<<"Enter radius of circle : ";
     cin>>r;
-    cout<<"Enter length and breadth of rectangle : ";
+    cout<<" : ";
     cin>>l>>b;
     cout<<"enter base and height of triangle : ";
     cin>>bs>>h;
